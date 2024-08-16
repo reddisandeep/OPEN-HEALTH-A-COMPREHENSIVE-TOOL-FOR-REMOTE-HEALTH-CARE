@@ -126,10 +126,6 @@ Contributions are what make the open-source community such an amazing place to l
 4. Push to the Branch
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the [Open Source Initiative (OSI)](https://opensource.org/) approved GNU General Public License v3.0 License - see the [LICENSE.txt](LICENSE.txt) file for details.<br>
-
 ## Acknowledgements
 
 We'd like to extend our gratitude to all individuals and organizations who have played a role in the development and success of this project. Your support, whether through contributions, inspiration, or encouragement, has been invaluable. Thank you for being a part of our journey.
