@@ -1,16 +1,4 @@
-# OpenHealth: A Comprehensive AI Tool for Remote Health Care    (Under Development)
-
-<img src="static/images/Logo.png" alt="Project Logo"/>
-
-Connect with me on social media and explore my work:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hemakalyan)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/KalyanMurapaka45)
-[![Medium](https://img.shields.io/badge/Medium-Follow-03a57a?style=flat-square&logo=medium)](https://medium.com/@kalyanmurapaka274)
-[![Twitter](https://img.shields.io/twitter/follow/KalyanM45?style=social)](https://twitter.com/KalyanM45)
-[![Sponsor Hema Kalyan Murapaka](https://img.shields.io/badge/Sponsor-Hema_Kalyan-28a745?style=flat-square&logo=github-sponsors)](https://github.com/sponsors/KalyanM45)
-
-**Special Thanks to GitHub Sponsors**
+# OpenHealth: A Comprehensive AI Tool for Remote Health Care
 
 ## About The Project
 
@@ -48,7 +36,7 @@ Follow these steps to install and set up the project directly from the GitHub re
    - Navigate to the directory where you want to install the project.
    - Run the following command to clone the GitHub repository:
      ```
-     git clone https://github.com/KalyanMurapaka45/OpenHealth.git
+     git clone https://github.com/reddisandeep/OpenHealth.git
      ```
 
 2. **Create a Virtual Environment** (Optional but recommended)
@@ -91,14 +79,14 @@ If you prefer to use Docker, you can install and run the project using a Docker 
    - Open your terminal or command prompt.
    - Run the following command to pull the Docker image from DockerHub:
      ```
-     docker pull kalyan45/<IMAGE>
+     docker pull reddisandeep/<IMAGE>
      ```
      This command downloads the Docker image from the DockerHub.
 
 2. **Run the Docker Container**
    - Start the Docker container by running the following command. Adjust the port mapping as needed:
      ```
-     docker run -p 5000:5000 kalyan45/<IMAGE>
+     docker run -p 5000:5000 reddisandeep/<IMAGE>
      ```
      This command launches the project within a Docker container.
 
@@ -138,19 +126,9 @@ Contributions are what make the open-source community such an amazing place to l
 4. Push to the Branch
 5. Open a Pull Request
 
-• **Suggestions**: If you don't want to code but have some awesome ideas, open up an issue explaining some updates or improvements you would like to see!
-
-#### Don't forget to give the project a star! Thanks again!
-
 ## License
 
 This project is licensed under the [Open Source Initiative (OSI)](https://opensource.org/) approved GNU General Public License v3.0 License - see the [LICENSE.txt](LICENSE.txt) file for details.<br>
-
-
-## Contact Details
-
-Hema Kalyan Murapaka - [kalyanmurapaka274@gmail.com](kalyanmurapaka274@gmail.com)<br>
-
 
 ## Acknowledgements
 
